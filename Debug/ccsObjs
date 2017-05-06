@@ -1,0 +1,1 @@
+"./LCD.o" "./images.o" "./main.o" "./tm4c123gh6pm_startup_ccs_gcc.o" "./touch_isr.o" "./drivers/Kentec320x240x16_ssd2119_spi.o" "./drivers/touch.o" "./files/Delay.o" "./files/SWITCH.o" "./files/UART.o" "./utils/ustdlib.o" -Wl,-T"../tm4c123gh6pm.lds" 
