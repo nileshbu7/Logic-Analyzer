@@ -1,0 +1,2463 @@
+Archive member included because of file (symbol)
+
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                              ./drivers/touch.o (ADCIntEnable)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+                              ./main.o (FPUEnable)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                              ./main.o (GPIODirModeSet)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                              ./main.o (IntMasterEnable)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                              ./drivers/Kentec320x240x16_ssd2119_spi.o (SSIConfigSetExpClk)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                              ./main.o (SysCtlPeripheralEnable)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+                              ./touch_isr.o (SysTickEnable)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                              ./drivers/touch.o (TimerEnable)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                              ./files/UART.o (UARTConfigSetExpClk)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(cpu.o)
+                              /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o) (CPUcpsid)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(context.o)
+                              ./main.o (GrContextInit)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm12.o)
+                              ./LCD.o (g_sFontCm12)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm14.o)
+                              ./main.o (g_sFontCm14)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm16.o)
+                              ./main.o (g_sFontCm16)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm20.o)
+                              ./touch_isr.o (g_sFontCm20)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(line.o)
+                              ./LCD.o (GrLineDrawH)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o)
+                              ./touch_isr.o (RectangularButtonMsgProc)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(rectangle.o)
+                              /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o) (GrRectDraw)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(slider.o)
+                              ./touch_isr.o (SliderMsgProc)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                              ./LCD.o (GrStringDraw)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                              /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o) (WidgetDefaultMsgProc)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                              /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(context.o) (GrMapISO8859_1_Unicode)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(circle.o)
+                              /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o) (GrCircleDraw)
+/home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(image.o)
+                              /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o) (GrImageDraw)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+                              ./files/UART.o (__aeabi_dsub)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+                              ./LCD.o (__aeabi_dmul)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+                              ./files/UART.o (__aeabi_dcmplt)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+                              ./files/UART.o (__aeabi_d2iz)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+                              ./LCD.o (__aeabi_d2f)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+                              /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+                              /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+                              /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+                              ./files/UART.o (__itoa)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+                              /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strlen.o)
+                              ./files/UART.o (strlen)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+                              /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o) (__utoa)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+                              /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o) (__call_exitprocs)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+                              /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o) (atexit)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+                              /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+                              /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o) (__register_exitproc)
+/home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+                              /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+Rect_t2             0x8               ./LCD.o
+Rect_t1             0x8               ./LCD.o
+sRect               0x8               ./LCD.o
+string              0x64              ./files/UART.o
+Rect_R              0x8               ./LCD.o
+sContext            0x2c              ./LCD.o
+g_i16TouchX         0x2               ./drivers/touch.o
+g_pi32ParmSet       0x4               ./drivers/touch.o
+str_left            0xa               ./LCD.o
+str_time            0xa               ./LCD.o
+Rect_M              0x8               ./LCD.o
+g_i16TouchY         0x2               ./drivers/touch.o
+str_right           0xa               ./LCD.o
+Rect_L              0x8               ./LCD.o
+ui32SysClock        0x4               ./LCD.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00040000         xr
+SRAM             0x20000000         0x00008000         xw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+LOAD /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+LOAD /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+LOAD ./LCD.o
+LOAD ./images.o
+LOAD ./main.o
+LOAD ./tm4c123gh6pm_startup_ccs_gcc.o
+LOAD ./touch_isr.o
+LOAD ./drivers/Kentec320x240x16_ssd2119_spi.o
+LOAD ./drivers/touch.o
+LOAD ./files/Delay.o
+LOAD ./files/SWITCH.o
+LOAD ./files/UART.o
+LOAD ./utils/ustdlib.o
+                0x00000000                PROVIDE (_intvecs_base_address, 0x0)
+
+.intvecs        0x00000000      0x26c
+ *(.intvecs)
+ .intvecs       0x00000000      0x26c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x00000000                g_pfnVectors
+                0x20000000                PROVIDE (_vtable_base_address, 0x20000000)
+
+.vtable
+ *(.vtable)
+
+.text           0x0000026c     0x9d0c
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x0000026c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .text          0x0000026c       0x5c /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .text          0x000002c8       0x74 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+                0x000002c8                _mainCRTStartup
+                0x000002c8                _start
+ .text          0x0000033c        0x0 ./LCD.o
+ .text          0x0000033c        0x0 ./images.o
+ .text          0x0000033c        0x0 ./main.o
+ .text          0x0000033c        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text          0x0000033c        0x0 ./touch_isr.o
+ .text          0x0000033c        0x0 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text          0x0000033c        0x0 ./drivers/touch.o
+ .text          0x0000033c        0x0 ./files/Delay.o
+ .text          0x0000033c        0x0 ./files/SWITCH.o
+ .text          0x0000033c        0x0 ./files/UART.o
+ .text          0x0000033c        0x0 ./utils/ustdlib.o
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(cpu.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(context.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm12.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm14.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm16.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm20.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(line.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(rectangle.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(slider.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(circle.o)
+ .text          0x0000033c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(image.o)
+ .text          0x0000033c      0x370 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+                0x0000033c                __aeabi_drsub
+                0x00000344                __aeabi_dsub
+                0x00000344                __subdf3
+                0x00000348                __adddf3
+                0x00000348                __aeabi_dadd
+                0x000005c0                __aeabi_ui2d
+                0x000005c0                __floatunsidf
+                0x000005e0                __floatsidf
+                0x000005e0                __aeabi_i2d
+                0x00000604                __extendsfdf2
+                0x00000604                __aeabi_f2d
+                0x00000640                __aeabi_ul2d
+                0x00000640                __floatundidf
+                0x00000650                __floatdidf
+                0x00000650                __aeabi_l2d
+ .text          0x000006ac      0x424 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+                0x000006ac                __aeabi_dmul
+                0x000006ac                __muldf3
+                0x00000900                __aeabi_ddiv
+                0x00000900                __divdf3
+ .text          0x00000ad0      0x110 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+                0x00000ad0                __gtdf2
+                0x00000ad0                __gedf2
+                0x00000ad8                __ltdf2
+                0x00000ad8                __ledf2
+                0x00000ae0                __cmpdf2
+                0x00000ae0                __eqdf2
+                0x00000ae0                __nedf2
+                0x00000b5c                __aeabi_cdrcmple
+                0x00000b6c                __aeabi_cdcmple
+                0x00000b6c                __aeabi_cdcmpeq
+                0x00000b7c                __aeabi_dcmpeq
+                0x00000b90                __aeabi_dcmplt
+                0x00000ba4                __aeabi_dcmple
+                0x00000bb8                __aeabi_dcmpge
+                0x00000bcc                __aeabi_dcmpgt
+ .text          0x00000be0       0x50 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+                0x00000be0                __fixdfsi
+                0x00000be0                __aeabi_d2iz
+ .text          0x00000c30       0xa0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+                0x00000c30                __aeabi_d2f
+                0x00000c30                __truncdfsf2
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strlen.o)
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .text          0x00000cd0        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ *(.text.*)
+ .text.print_time
+                0x00000cd0      0x2d0 ./LCD.o
+                0x00000cd0                print_time
+ .text.clear_screen
+                0x00000fa0       0xd0 ./LCD.o
+                0x00000fa0                clear_screen
+ .text.print_waveform
+                0x00001070      0x7e0 ./LCD.o
+                0x00001070                print_waveform
+ .text.data_convert
+                0x00001850      0x16c ./LCD.o
+                0x00001850                data_convert
+ .text.prev_init
+                0x000019bc       0x50 ./LCD.o
+                0x000019bc                prev_init
+ .text.SysTickIntHandler
+                0x00001a0c      0x188 ./main.o
+                0x00001a0c                SysTickIntHandler
+ .text.system_init
+                0x00001b94       0x7c ./main.o
+                0x00001b94                system_init
+ .text.main     0x00001c10      0x358 ./main.o
+                0x00001c10                main
+ .text.ResetISR
+                0x00001f68       0x68 ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x00001f68                ResetISR
+ .text.NmiSR    0x00001fd0        0x8 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.FaultISR
+                0x00001fd8        0x8 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.IntDefaultHandler
+                0x00001fe0        0x8 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.move_slider_press
+                0x00001fe8      0x370 ./touch_isr.o
+                0x00001fe8                move_slider_press
+ .text.start_press
+                0x00002358      0x1bc ./touch_isr.o
+                0x00002358                start_press
+ .text.plus_press
+                0x00002514       0xf4 ./touch_isr.o
+                0x00002514                plus_press
+ .text.minus_press
+                0x00002608       0xf0 ./touch_isr.o
+                0x00002608                minus_press
+ .text.wave_print_press
+                0x000026f8       0xe4 ./touch_isr.o
+                0x000026f8                wave_print_press
+ .text.increase_press
+                0x000027dc      0x130 ./touch_isr.o
+                0x000027dc                increase_press
+ .text.decrease_press
+                0x0000290c      0x160 ./touch_isr.o
+                0x0000290c                decrease_press
+ .text.left_press
+                0x00002a6c      0x150 ./touch_isr.o
+                0x00002a6c                left_press
+ .text.right_press
+                0x00002bbc      0x154 ./touch_isr.o
+                0x00002bbc                right_press
+ .text.LED_ON   0x00002d10       0x14 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text.LED_OFF  0x00002d24       0x14 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text.WriteDataSPI
+                0x00002d38       0x68 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text.WriteCommandSPI
+                0x00002da0       0x64 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text.InitSPILCDInterface
+                0x00002e04      0x100 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119Init
+                0x00002f04      0x1f4 ./drivers/Kentec320x240x16_ssd2119_spi.o
+                0x00002f04                Kentec320x240x16_SSD2119Init
+ .text.Kentec320x240x16_SSD2119PixelDraw
+                0x000030f8       0x54 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119PixelDrawMultiple
+                0x0000314c      0x234 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119LineDrawH
+                0x00003380       0x70 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119LineDrawV
+                0x000033f0       0x70 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119RectFill
+                0x00003460      0x120 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119ColorTranslate
+                0x00003580       0x34 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119Flush
+                0x000035b4       0x14 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .text.TouchScreenDebouncer
+                0x000035c8      0x280 ./drivers/touch.o
+ .text.TouchScreenIntHandler
+                0x00003848      0x188 ./drivers/touch.o
+                0x00003848                TouchScreenIntHandler
+ .text.TouchScreenInit
+                0x000039d0      0x128 ./drivers/touch.o
+                0x000039d0                TouchScreenInit
+ .text.TouchScreenCallbackSet
+                0x00003af8       0x1c ./drivers/touch.o
+                0x00003af8                TouchScreenCallbackSet
+ .text.ms_delay
+                0x00003b14       0x2c ./files/Delay.o
+                0x00003b14                ms_delay
+ .text.us_delay
+                0x00003b40       0x2c ./files/Delay.o
+                0x00003b40                us_delay
+ .text.Switch_Init
+                0x00003b6c       0x50 ./files/SWITCH.o
+                0x00003b6c                Switch_Init
+ .text.Switch_1_pressed
+                0x00003bbc       0x20 ./files/SWITCH.o
+                0x00003bbc                Switch_1_pressed
+ .text.Switch_2_pressed
+                0x00003bdc       0x20 ./files/SWITCH.o
+                0x00003bdc                Switch_2_pressed
+ .text.PortFIntHandler
+                0x00003bfc       0x4c ./files/SWITCH.o
+                0x00003bfc                PortFIntHandler
+ .text.UARTIntHandler
+                0x00003c48       0x9c ./files/UART.o
+                0x00003c48                UARTIntHandler
+ .text.UART_init
+                0x00003ce4       0x64 ./files/UART.o
+                0x00003ce4                UART_init
+ .text.UART_get_string
+                0x00003d48       0x40 ./files/UART.o
+                0x00003d48                UART_get_string
+ .text.UART_string
+                0x00003d88       0x2c ./files/UART.o
+                0x00003d88                UART_string
+ .text.UART_integer_digit
+                0x00003db4       0x58 ./files/UART.o
+                0x00003db4                UART_integer_digit
+ .text.UART_integer
+                0x00003e0c       0x28 ./files/UART.o
+                0x00003e0c                UART_integer
+ .text.UART_newline
+                0x00003e34       0x1c ./files/UART.o
+                0x00003e34                UART_newline
+ .text.UART_Htab
+                0x00003e50       0x14 ./files/UART.o
+                0x00003e50                UART_Htab
+ .text.UART_float
+                0x00003e64      0x124 ./files/UART.o
+                0x00003e64                UART_float
+ .text.UARTwrite
+                0x00003f88       0x50 ./files/UART.o
+                0x00003f88                UARTwrite
+ .text.UARTvprintf
+                0x00003fd8      0x40c ./files/UART.o
+                0x00003fd8                UARTvprintf
+ .text.UARTprintf
+                0x000043e4       0x24 ./files/UART.o
+                0x000043e4                UARTprintf
+ .text.ustrncpy
+                0x00004408       0x6c ./utils/ustdlib.o
+                0x00004408                ustrncpy
+ .text.uvsnprintf
+                0x00004474      0x504 ./utils/ustdlib.o
+                0x00004474                uvsnprintf
+ .text.usprintf
+                0x00004978       0x30 ./utils/ustdlib.o
+                0x00004978                usprintf
+ .text.usnprintf
+                0x000049a8       0x30 ./utils/ustdlib.o
+                0x000049a8                usnprintf
+ .text.ulocaltime
+                0x000049d8      0x178 ./utils/ustdlib.o
+                0x000049d8                ulocaltime
+ .text.ucmptime
+                0x00004b50       0xe4 ./utils/ustdlib.o
+ .text.umktime  0x00004c34       0x8c ./utils/ustdlib.o
+                0x00004c34                umktime
+ .text.ustrtoul
+                0x00004cc0      0x150 ./utils/ustdlib.o
+                0x00004cc0                ustrtoul
+ .text.ustrtof  0x00004e10      0x274 ./utils/ustdlib.o
+                0x00004e10                ustrtof
+ .text.ustrlen  0x00005084       0x30 ./utils/ustdlib.o
+                0x00005084                ustrlen
+ .text.ustrstr  0x000050b4       0x40 ./utils/ustdlib.o
+                0x000050b4                ustrstr
+ .text.ustrncasecmp
+                0x000050f4       0xa4 ./utils/ustdlib.o
+                0x000050f4                ustrncasecmp
+ .text.ustrcasecmp
+                0x00005198       0x20 ./utils/ustdlib.o
+                0x00005198                ustrcasecmp
+ .text.ustrncmp
+                0x000051b8       0x6c ./utils/ustdlib.o
+                0x000051b8                ustrncmp
+ .text.ustrcmp  0x00005224       0x20 ./utils/ustdlib.o
+                0x00005224                ustrcmp
+ .text.usrand   0x00005244       0x1c ./utils/ustdlib.o
+                0x00005244                usrand
+ .text.urand    0x00005260       0x30 ./utils/ustdlib.o
+                0x00005260                urand
+ .text._ADCIntNumberGet
+                0x00005290       0x54 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+ .text.ADCIntRegister
+                0x000052e4       0x1a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x000052e4                ADCIntRegister
+ .text.ADCIntUnregister
+                0x000052fe       0x16 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x000052fe                ADCIntUnregister
+ .text.ADCIntDisable
+                0x00005314       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005314                ADCIntDisable
+ .text.ADCIntEnable
+                0x00005324       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005324                ADCIntEnable
+ .text.ADCIntStatus
+                0x00005334       0x34 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005334                ADCIntStatus
+ .text.ADCIntClear
+                0x00005368        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005368                ADCIntClear
+ .text.ADCSequenceEnable
+                0x00005372        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005372                ADCSequenceEnable
+ .text.ADCSequenceDisable
+                0x00005380       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005380                ADCSequenceDisable
+ .text.ADCSequenceConfigure
+                0x00005390       0x5c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005390                ADCSequenceConfigure
+ .text.ADCSequenceStepConfigure
+                0x000053ec       0x84 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x000053ec                ADCSequenceStepConfigure
+ .text.ADCSequenceOverflow
+                0x00005470        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005470                ADCSequenceOverflow
+ .text.ADCSequenceOverflowClear
+                0x0000547c        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x0000547c                ADCSequenceOverflowClear
+ .text.ADCSequenceUnderflow
+                0x00005486        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005486                ADCSequenceUnderflow
+ .text.ADCSequenceUnderflowClear
+                0x00005492        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005492                ADCSequenceUnderflowClear
+ .text.ADCSequenceDataGet
+                0x0000549c       0x1e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x0000549c                ADCSequenceDataGet
+ .text.ADCProcessorTrigger
+                0x000054ba       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x000054ba                ADCProcessorTrigger
+ *fill*         0x000054d2        0x2 
+ .text.ADCSoftwareOversampleConfigure
+                0x000054d4       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x000054d4                ADCSoftwareOversampleConfigure
+ .text.ADCSoftwareOversampleStepConfigure
+                0x000054ec       0x78 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x000054ec                ADCSoftwareOversampleStepConfigure
+ .text.ADCSoftwareOversampleDataGet
+                0x00005564       0x34 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005564                ADCSoftwareOversampleDataGet
+ .text.ADCHardwareOversampleConfigure
+                0x00005598       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005598                ADCHardwareOversampleConfigure
+ .text.ADCComparatorConfigure
+                0x000055a8        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x000055a8                ADCComparatorConfigure
+ .text.ADCComparatorRegionSet
+                0x000055b2        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x000055b2                ADCComparatorRegionSet
+ .text.ADCComparatorReset
+                0x000055c0       0x1e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x000055c0                ADCComparatorReset
+ .text.ADCComparatorIntDisable
+                0x000055de       0x12 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x000055de                ADCComparatorIntDisable
+ .text.ADCComparatorIntEnable
+                0x000055f0       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x000055f0                ADCComparatorIntEnable
+ .text.ADCComparatorIntStatus
+                0x00005600        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005600                ADCComparatorIntStatus
+ .text.ADCComparatorIntClear
+                0x00005604        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005604                ADCComparatorIntClear
+ .text.ADCIntDisableEx
+                0x00005608        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005608                ADCIntDisableEx
+ .text.ADCIntEnableEx
+                0x00005612        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005612                ADCIntEnableEx
+ .text.ADCIntStatusEx
+                0x0000561a       0x12 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x0000561a                ADCIntStatusEx
+ .text.ADCIntClearEx
+                0x0000562c        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x0000562c                ADCIntClearEx
+ .text.ADCReferenceSet
+                0x00005630        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005630                ADCReferenceSet
+ .text.ADCReferenceGet
+                0x0000563c        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x0000563c                ADCReferenceGet
+ .text.ADCPhaseDelaySet
+                0x00005644        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005644                ADCPhaseDelaySet
+ .text.ADCPhaseDelayGet
+                0x00005648        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005648                ADCPhaseDelayGet
+ .text.ADCSequenceDMAEnable
+                0x0000564c       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x0000564c                ADCSequenceDMAEnable
+ .text.ADCSequenceDMADisable
+                0x0000565c       0x12 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x0000565c                ADCSequenceDMADisable
+ .text.ADCBusy  0x0000566e        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x0000566e                ADCBusy
+ .text.ADCClockConfigSet
+                0x00005676       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x00005676                ADCClockConfigSet
+ .text.ADCClockConfigGet
+                0x0000568e       0x1e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                0x0000568e                ADCClockConfigGet
+ .text.FPUEnable
+                0x000056ac       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+                0x000056ac                FPUEnable
+ .text.FPUDisable
+                0x000056bc       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+                0x000056bc                FPUDisable
+ .text.FPUStackingEnable
+                0x000056cc       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+                0x000056cc                FPUStackingEnable
+ .text.FPULazyStackingEnable
+                0x000056e0       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+                0x000056e0                FPULazyStackingEnable
+ .text.FPUStackingDisable
+                0x000056f0       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+                0x000056f0                FPUStackingDisable
+ .text.FPUHalfPrecisionModeSet
+                0x00005700       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+                0x00005700                FPUHalfPrecisionModeSet
+ .text.FPUNaNModeSet
+                0x00005714       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+                0x00005714                FPUNaNModeSet
+ .text.FPUFlushToZeroModeSet
+                0x00005728       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+                0x00005728                FPUFlushToZeroModeSet
+ .text.FPURoundingModeSet
+                0x0000573c       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+                0x0000573c                FPURoundingModeSet
+ .text._GPIOIntNumberGet
+                0x00005750       0x44 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIODirModeSet
+                0x00005794       0x2e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005794                GPIODirModeSet
+ .text.GPIODirModeGet
+                0x000057c2       0x24 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x000057c2                GPIODirModeGet
+ .text.GPIOIntTypeSet
+                0x000057e6       0x5a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x000057e6                GPIOIntTypeSet
+ .text.GPIOIntTypeGet
+                0x00005840       0x4a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005840                GPIOIntTypeGet
+ .text.GPIOPadConfigSet
+                0x0000588a      0x130 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000588a                GPIOPadConfigSet
+ .text.GPIOPadConfigGet
+                0x000059ba       0xc4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x000059ba                GPIOPadConfigGet
+ .text.GPIOIntEnable
+                0x00005a7e        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005a7e                GPIOIntEnable
+ .text.GPIOIntDisable
+                0x00005a8a        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005a8a                GPIOIntDisable
+ .text.GPIOIntStatus
+                0x00005a98        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005a98                GPIOIntStatus
+ .text.GPIOIntClear
+                0x00005aa6        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005aa6                GPIOIntClear
+ .text.GPIOIntRegister
+                0x00005aac       0x1a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005aac                GPIOIntRegister
+ .text.GPIOIntUnregister
+                0x00005ac6       0x16 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005ac6                GPIOIntUnregister
+ .text.GPIOPinRead
+                0x00005adc        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005adc                GPIOPinRead
+ .text.GPIOPinWrite
+                0x00005ae2        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005ae2                GPIOPinWrite
+ .text.GPIOPinTypeADC
+                0x00005ae8       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005ae8                GPIOPinTypeADC
+ .text.GPIOPinTypeCAN
+                0x00005b04       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005b04                GPIOPinTypeCAN
+ .text.GPIOPinTypeComparator
+                0x00005b20       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005b20                GPIOPinTypeComparator
+ .text.GPIOPinTypeComparatorOutput
+                0x00005b3c       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005b3c                GPIOPinTypeComparatorOutput
+ .text.GPIOPinTypeDIVSCLK
+                0x00005b58       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005b58                GPIOPinTypeDIVSCLK
+ .text.GPIOPinTypeEPI
+                0x00005b74       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005b74                GPIOPinTypeEPI
+ .text.GPIOPinTypeEthernetLED
+                0x00005b90       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005b90                GPIOPinTypeEthernetLED
+ .text.GPIOPinTypeEthernetMII
+                0x00005bac       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005bac                GPIOPinTypeEthernetMII
+ .text.GPIOPinTypeGPIOInput
+                0x00005bc8       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005bc8                GPIOPinTypeGPIOInput
+ .text.GPIOPinTypeGPIOOutput
+                0x00005be4       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005be4                GPIOPinTypeGPIOOutput
+ .text.GPIOPinTypeGPIOOutputOD
+                0x00005c00       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005c00                GPIOPinTypeGPIOOutputOD
+ .text.GPIOPinTypeHibernateRTCCLK
+                0x00005c1c       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005c1c                GPIOPinTypeHibernateRTCCLK
+ .text.GPIOPinTypeI2C
+                0x00005c38       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005c38                GPIOPinTypeI2C
+ .text.GPIOPinTypeI2CSCL
+                0x00005c54       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005c54                GPIOPinTypeI2CSCL
+ .text.GPIOPinTypeLCD
+                0x00005c70       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005c70                GPIOPinTypeLCD
+ .text.GPIOPinTypeOneWire
+                0x00005c8c       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005c8c                GPIOPinTypeOneWire
+ .text.GPIOPinTypePWM
+                0x00005ca8       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005ca8                GPIOPinTypePWM
+ .text.GPIOPinTypeQEI
+                0x00005cc4       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005cc4                GPIOPinTypeQEI
+ .text.GPIOPinTypeSSI
+                0x00005ce0       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005ce0                GPIOPinTypeSSI
+ .text.GPIOPinTypeTimer
+                0x00005cfc       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005cfc                GPIOPinTypeTimer
+ .text.GPIOPinTypeTrace
+                0x00005d18       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005d18                GPIOPinTypeTrace
+ .text.GPIOPinTypeUART
+                0x00005d34       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005d34                GPIOPinTypeUART
+ .text.GPIOPinTypeUSBAnalog
+                0x00005d50       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005d50                GPIOPinTypeUSBAnalog
+ .text.GPIOPinTypeUSBDigital
+                0x00005d6c       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005d6c                GPIOPinTypeUSBDigital
+ .text.GPIOPinTypeWakeHigh
+                0x00005d88       0x1e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005d88                GPIOPinTypeWakeHigh
+ .text.GPIOPinTypeWakeLow
+                0x00005da6       0x1e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005da6                GPIOPinTypeWakeLow
+ .text.GPIOPinWakeStatus
+                0x00005dc4        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005dc4                GPIOPinWakeStatus
+ *fill*         0x00005dca        0x2 
+ .text.GPIOPinConfigure
+                0x00005dcc       0x4c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005dcc                GPIOPinConfigure
+ .text.GPIODMATriggerEnable
+                0x00005e18        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005e18                GPIODMATriggerEnable
+ .text.GPIODMATriggerDisable
+                0x00005e24        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005e24                GPIODMATriggerDisable
+ .text.GPIOADCTriggerEnable
+                0x00005e32        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005e32                GPIOADCTriggerEnable
+ .text.GPIOADCTriggerDisable
+                0x00005e3e        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+                0x00005e3e                GPIOADCTriggerDisable
+ .text._IntDefaultHandler
+                0x00005e4c        0x2 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterEnable
+                0x00005e4e        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00005e4e                IntMasterEnable
+ .text.IntMasterDisable
+                0x00005e5c        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00005e5c                IntMasterDisable
+ *fill*         0x00005e6a        0x2 
+ .text.IntRegister
+                0x00005e6c       0x34 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00005e6c                IntRegister
+ .text.IntUnregister
+                0x00005ea0       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00005ea0                IntUnregister
+ .text.IntPriorityGroupingSet
+                0x00005eb4       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00005eb4                IntPriorityGroupingSet
+ .text.IntPriorityGroupingGet
+                0x00005ed0       0x24 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00005ed0                IntPriorityGroupingGet
+ .text.IntPrioritySet
+                0x00005ef4       0x2c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00005ef4                IntPrioritySet
+ .text.IntPriorityGet
+                0x00005f20       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00005f20                IntPriorityGet
+ .text.IntEnable
+                0x00005f3c       0x60 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00005f3c                IntEnable
+ .text.IntDisable
+                0x00005f9c       0x60 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00005f9c                IntDisable
+ .text.IntIsEnabled
+                0x00005ffc       0x64 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00005ffc                IntIsEnabled
+ .text.IntPendSet
+                0x00006060       0x50 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00006060                IntPendSet
+ .text.IntPendClear
+                0x000060b0       0x40 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x000060b0                IntPendClear
+ .text.IntPriorityMaskSet
+                0x000060f0        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x000060f0                IntPriorityMaskSet
+ .text.IntPriorityMaskGet
+                0x000060f4        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x000060f4                IntPriorityMaskGet
+ .text.IntTrigger
+                0x000060f8        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x000060f8                IntTrigger
+ .text._SSIIntNumberGet
+                0x00006104       0x44 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+ .text.SSIConfigSetExpClk
+                0x00006148       0x3c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x00006148                SSIConfigSetExpClk
+ .text.SSIEnable
+                0x00006184        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x00006184                SSIEnable
+ .text.SSIDisable
+                0x0000618e        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000618e                SSIDisable
+ .text.SSIIntRegister
+                0x00006198       0x1a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x00006198                SSIIntRegister
+ .text.SSIIntUnregister
+                0x000061b2       0x16 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x000061b2                SSIIntUnregister
+ .text.SSIIntEnable
+                0x000061c8        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x000061c8                SSIIntEnable
+ .text.SSIIntDisable
+                0x000061d0        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x000061d0                SSIIntDisable
+ .text.SSIIntStatus
+                0x000061da        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x000061da                SSIIntStatus
+ .text.SSIIntClear
+                0x000061e4        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x000061e4                SSIIntClear
+ .text.SSIDataPut
+                0x000061e8        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x000061e8                SSIDataPut
+ .text.SSIDataPutNonBlocking
+                0x000061f2       0x12 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x000061f2                SSIDataPutNonBlocking
+ .text.SSIDataGet
+                0x00006204        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x00006204                SSIDataGet
+ .text.SSIDataGetNonBlocking
+                0x00006210       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x00006210                SSIDataGetNonBlocking
+ .text.SSIDMAEnable
+                0x00006224        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x00006224                SSIDMAEnable
+ .text.SSIDMADisable
+                0x0000622c        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000622c                SSIDMADisable
+ .text.SSIBusy  0x00006236        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x00006236                SSIBusy
+ .text.SSIClockSourceSet
+                0x0000623e        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000623e                SSIClockSourceSet
+ .text.SSIClockSourceGet
+                0x00006244        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x00006244                SSIClockSourceGet
+ .text.SSIAdvModeSet
+                0x0000624a        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000624a                SSIAdvModeSet
+ .text.SSIAdvDataPutFrameEnd
+                0x00006256       0x12 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x00006256                SSIAdvDataPutFrameEnd
+ .text.SSIAdvDataPutFrameEndNonBlocking
+                0x00006268       0x1a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x00006268                SSIAdvDataPutFrameEndNonBlocking
+ .text.SSIAdvFrameHoldEnable
+                0x00006282        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x00006282                SSIAdvFrameHoldEnable
+ .text.SSIAdvFrameHoldDisable
+                0x0000628c        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000628c                SSIAdvFrameHoldDisable
+ *fill*         0x00006296        0x2 
+ .text._SysCtlMemTimingGet
+                0x00006298       0x24 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x000062bc       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000062bc                SysCtlSRAMSizeGet
+ .text.SysCtlFlashSizeGet
+                0x000062cc       0x3c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000062cc                SysCtlFlashSizeGet
+ .text.SysCtlFlashSectorSizeGet
+                0x00006308       0x38 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006308                SysCtlFlashSectorSizeGet
+ .text.SysCtlPeripheralPresent
+                0x00006340       0x26 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006340                SysCtlPeripheralPresent
+ .text.SysCtlPeripheralReady
+                0x00006366       0x26 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006366                SysCtlPeripheralReady
+ .text.SysCtlPeripheralPowerOn
+                0x0000638c       0x22 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000638c                SysCtlPeripheralPowerOn
+ .text.SysCtlPeripheralPowerOff
+                0x000063ae       0x22 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000063ae                SysCtlPeripheralPowerOff
+ .text.SysCtlPeripheralReset
+                0x000063d0       0x3a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000063d0                SysCtlPeripheralReset
+ .text.SysCtlPeripheralEnable
+                0x0000640a       0x22 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000640a                SysCtlPeripheralEnable
+ .text.SysCtlPeripheralDisable
+                0x0000642c       0x22 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000642c                SysCtlPeripheralDisable
+ .text.SysCtlPeripheralSleepEnable
+                0x0000644e       0x22 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000644e                SysCtlPeripheralSleepEnable
+ .text.SysCtlPeripheralSleepDisable
+                0x00006470       0x22 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006470                SysCtlPeripheralSleepDisable
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x00006492       0x22 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006492                SysCtlPeripheralDeepSleepEnable
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x000064b4       0x22 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000064b4                SysCtlPeripheralDeepSleepDisable
+ *fill*         0x000064d6        0x2 
+ .text.SysCtlPeripheralClockGating
+                0x000064d8       0x48 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000064d8                SysCtlPeripheralClockGating
+ .text.SysCtlIntRegister
+                0x00006520       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006520                SysCtlIntRegister
+ .text.SysCtlIntUnregister
+                0x00006534       0x12 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006534                SysCtlIntUnregister
+ *fill*         0x00006546        0x2 
+ .text.SysCtlIntEnable
+                0x00006548       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006548                SysCtlIntEnable
+ .text.SysCtlIntDisable
+                0x00006558       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006558                SysCtlIntDisable
+ .text.SysCtlIntClear
+                0x00006568        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006568                SysCtlIntClear
+ .text.SysCtlIntStatus
+                0x00006574       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006574                SysCtlIntStatus
+ .text.SysCtlLDOSleepSet
+                0x00006588        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006588                SysCtlLDOSleepSet
+ .text.SysCtlLDOSleepGet
+                0x00006594        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006594                SysCtlLDOSleepGet
+ .text.SysCtlLDODeepSleepSet
+                0x000065a0        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000065a0                SysCtlLDODeepSleepSet
+ .text.SysCtlLDODeepSleepGet
+                0x000065ac        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000065ac                SysCtlLDODeepSleepGet
+ .text.SysCtlSleepPowerSet
+                0x000065b8        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000065b8                SysCtlSleepPowerSet
+ .text.SysCtlDeepSleepPowerSet
+                0x000065c4        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000065c4                SysCtlDeepSleepPowerSet
+ .text.SysCtlReset
+                0x000065d0       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000065d0                SysCtlReset
+ .text.SysCtlSleep
+                0x000065e0        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000065e0                SysCtlSleep
+ .text.SysCtlDeepSleep
+                0x000065e4       0x20 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000065e4                SysCtlDeepSleep
+ .text.SysCtlResetCauseGet
+                0x00006604        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006604                SysCtlResetCauseGet
+ .text.SysCtlResetCauseClear
+                0x00006610       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006610                SysCtlResetCauseClear
+ .text.SysCtlDelay
+                0x00006620        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006620                SysCtlDelay
+ .text.SysCtlMOSCConfigSet
+                0x00006628        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006628                SysCtlMOSCConfigSet
+ .text.SysCtlPIOSCCalibrate
+                0x00006634       0x48 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006634                SysCtlPIOSCCalibrate
+ .text.SysCtlResetBehaviorSet
+                0x0000667c        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000667c                SysCtlResetBehaviorSet
+ .text.SysCtlResetBehaviorGet
+                0x00006688        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006688                SysCtlResetBehaviorGet
+ .text.SysCtlClockFreqSet
+                0x00006694      0x22c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006694                SysCtlClockFreqSet
+ .text.SysCtlClockSet
+                0x000068c0      0x11c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000068c0                SysCtlClockSet
+ .text.SysCtlClockGet
+                0x000069dc      0x12c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000069dc                SysCtlClockGet
+ .text.SysCtlDeepSleepClockSet
+                0x00006b08        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006b08                SysCtlDeepSleepClockSet
+ .text.SysCtlDeepSleepClockConfigSet
+                0x00006b14       0x60 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006b14                SysCtlDeepSleepClockConfigSet
+ .text.SysCtlPWMClockSet
+                0x00006b74       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006b74                SysCtlPWMClockSet
+ .text.SysCtlPWMClockGet
+                0x00006b88       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006b88                SysCtlPWMClockGet
+ .text.SysCtlGPIOAHBEnable
+                0x00006ba0       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006ba0                SysCtlGPIOAHBEnable
+ .text.SysCtlGPIOAHBDisable
+                0x00006bb8       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006bb8                SysCtlGPIOAHBDisable
+ .text.SysCtlUSBPLLEnable
+                0x00006bd4       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006bd4                SysCtlUSBPLLEnable
+ .text.SysCtlUSBPLLDisable
+                0x00006be4       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006be4                SysCtlUSBPLLDisable
+ .text.SysCtlVoltageEventConfig
+                0x00006bf4        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006bf4                SysCtlVoltageEventConfig
+ .text.SysCtlVoltageEventStatus
+                0x00006c00        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006c00                SysCtlVoltageEventStatus
+ .text.SysCtlVoltageEventClear
+                0x00006c0c       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006c0c                SysCtlVoltageEventClear
+ .text.SysCtlVCOGet
+                0x00006c1c       0x78 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006c1c                SysCtlVCOGet
+ .text.SysCtlNMIStatus
+                0x00006c94        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006c94                SysCtlNMIStatus
+ .text.SysCtlNMIClear
+                0x00006ca0       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006ca0                SysCtlNMIClear
+ .text.SysCtlClockOutConfig
+                0x00006cb0       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006cb0                SysCtlClockOutConfig
+ .text.SysCtlAltClkConfig
+                0x00006cc0        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00006cc0                SysCtlAltClkConfig
+ .text.SysTickEnable
+                0x00006ccc       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+                0x00006ccc                SysTickEnable
+ .text.SysTickDisable
+                0x00006cdc       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+                0x00006cdc                SysTickDisable
+ .text.SysTickIntRegister
+                0x00006cec       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+                0x00006cec                SysTickIntRegister
+ .text.SysTickIntUnregister
+                0x00006d08       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+                0x00006d08                SysTickIntUnregister
+ .text.SysTickIntEnable
+                0x00006d1c       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+                0x00006d1c                SysTickIntEnable
+ .text.SysTickIntDisable
+                0x00006d2c       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+                0x00006d2c                SysTickIntDisable
+ .text.SysTickPeriodSet
+                0x00006d3c        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+                0x00006d3c                SysTickPeriodSet
+ .text.SysTickPeriodGet
+                0x00006d48        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+                0x00006d48                SysTickPeriodGet
+ .text.SysTickValueGet
+                0x00006d54        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+                0x00006d54                SysTickValueGet
+ .text._TimerIntNumberGet
+                0x00006d60       0x50 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+ .text.TimerEnable
+                0x00006db0       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006db0                TimerEnable
+ .text.TimerDisable
+                0x00006dc0       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006dc0                TimerDisable
+ .text.TimerConfigure
+                0x00006dd0       0x58 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006dd0                TimerConfigure
+ .text.TimerControlLevel
+                0x00006e28       0x1e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006e28                TimerControlLevel
+ *fill*         0x00006e46        0x2 
+ .text.TimerControlTrigger
+                0x00006e48       0x54 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006e48                TimerControlTrigger
+ .text.TimerControlEvent
+                0x00006e9c       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006e9c                TimerControlEvent
+ .text.TimerControlStall
+                0x00006eb0       0x1e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006eb0                TimerControlStall
+ .text.TimerControlWaitOnTrigger
+                0x00006ece       0x2e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006ece                TimerControlWaitOnTrigger
+ .text.TimerRTCEnable
+                0x00006efc        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006efc                TimerRTCEnable
+ .text.TimerRTCDisable
+                0x00006f06        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f06                TimerRTCDisable
+ .text.TimerClockSourceSet
+                0x00006f10        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f10                TimerClockSourceSet
+ .text.TimerClockSourceGet
+                0x00006f16        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f16                TimerClockSourceGet
+ .text.TimerPrescaleSet
+                0x00006f1c       0x12 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f1c                TimerPrescaleSet
+ .text.TimerPrescaleGet
+                0x00006f2e        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f2e                TimerPrescaleGet
+ .text.TimerPrescaleMatchSet
+                0x00006f38       0x12 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f38                TimerPrescaleMatchSet
+ .text.TimerPrescaleMatchGet
+                0x00006f4a        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f4a                TimerPrescaleMatchGet
+ .text.TimerLoadSet
+                0x00006f54       0x12 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f54                TimerLoadSet
+ .text.TimerLoadGet
+                0x00006f66        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f66                TimerLoadGet
+ .text.TimerLoadSet64
+                0x00006f70        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f70                TimerLoadSet64
+ .text.TimerLoadGet64
+                0x00006f76       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f76                TimerLoadGet64
+ .text.TimerValueGet
+                0x00006f8e        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f8e                TimerValueGet
+ .text.TimerValueGet64
+                0x00006f98       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006f98                TimerValueGet64
+ .text.TimerMatchSet
+                0x00006fb0       0x12 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006fb0                TimerMatchSet
+ .text.TimerMatchGet
+                0x00006fc2        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006fc2                TimerMatchGet
+ .text.TimerMatchSet64
+                0x00006fcc        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006fcc                TimerMatchSet64
+ .text.TimerMatchGet64
+                0x00006fd2       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006fd2                TimerMatchGet64
+ .text.TimerIntRegister
+                0x00006fea       0x1a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00006fea                TimerIntRegister
+ .text.TimerIntUnregister
+                0x00007004       0x16 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00007004                TimerIntUnregister
+ .text.TimerIntEnable
+                0x0000701a        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x0000701a                TimerIntEnable
+ .text.TimerIntDisable
+                0x00007022        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00007022                TimerIntDisable
+ .text.TimerIntStatus
+                0x0000702c        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x0000702c                TimerIntStatus
+ .text.TimerIntClear
+                0x00007036        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00007036                TimerIntClear
+ .text.TimerSynchronize
+                0x0000703a        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x0000703a                TimerSynchronize
+ .text.TimerADCEventSet
+                0x0000703e        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x0000703e                TimerADCEventSet
+ .text.TimerADCEventGet
+                0x00007042        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00007042                TimerADCEventGet
+ .text.TimerDMAEventSet
+                0x00007046        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x00007046                TimerDMAEventSet
+ .text.TimerDMAEventGet
+                0x0000704a        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x0000704a                TimerDMAEventGet
+ .text.TimerUpdateMode
+                0x0000704e       0x26 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+                0x0000704e                TimerUpdateMode
+ .text._UARTIntNumberGet
+                0x00007074       0x44 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTParityModeSet
+                0x000070b8        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000070b8                UARTParityModeSet
+ .text.UARTParityModeGet
+                0x000070c4        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000070c4                UARTParityModeGet
+ .text.UARTFIFOLevelSet
+                0x000070cc        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000070cc                UARTFIFOLevelSet
+ .text.UARTFIFOLevelGet
+                0x000070d2       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000070d2                UARTFIFOLevelGet
+ .text.UARTConfigGetExpClk
+                0x000070e2       0x28 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000070e2                UARTConfigGetExpClk
+ .text.UARTEnable
+                0x0000710a       0x16 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x0000710a                UARTEnable
+ .text.UARTDisable
+                0x00007120       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007120                UARTDisable
+ .text.UARTConfigSetExpClk
+                0x0000713c       0x48 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x0000713c                UARTConfigSetExpClk
+ .text.UARTFIFOEnable
+                0x00007184        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007184                UARTFIFOEnable
+ .text.UARTFIFODisable
+                0x0000718e        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x0000718e                UARTFIFODisable
+ .text.UARTEnableSIR
+                0x00007198       0x12 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007198                UARTEnableSIR
+ .text.UARTDisableSIR
+                0x000071aa        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000071aa                UARTDisableSIR
+ .text.UARTSmartCardEnable
+                0x000071b4       0x16 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000071b4                UARTSmartCardEnable
+ .text.UARTSmartCardDisable
+                0x000071ca        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000071ca                UARTSmartCardDisable
+ .text.UARTModemControlSet
+                0x000071d4        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000071d4                UARTModemControlSet
+ .text.UARTModemControlClear
+                0x000071e0        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000071e0                UARTModemControlClear
+ .text.UARTModemControlGet
+                0x000071ee        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000071ee                UARTModemControlGet
+ .text.UARTModemStatusGet
+                0x000071f6        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000071f6                UARTModemStatusGet
+ .text.UARTFlowControlSet
+                0x00007200        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007200                UARTFlowControlSet
+ .text.UARTFlowControlGet
+                0x0000720c        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x0000720c                UARTFlowControlGet
+ .text.UARTTxIntModeSet
+                0x00007214        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007214                UARTTxIntModeSet
+ .text.UARTTxIntModeGet
+                0x00007220        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007220                UARTTxIntModeGet
+ .text.UARTCharsAvail
+                0x00007228        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007228                UARTCharsAvail
+ .text.UARTSpaceAvail
+                0x00007234        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007234                UARTSpaceAvail
+ .text.UARTCharGetNonBlocking
+                0x00007240        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007240                UARTCharGetNonBlocking
+ .text.UARTCharGet
+                0x0000724e        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x0000724e                UARTCharGet
+ .text.UARTCharPutNonBlocking
+                0x00007258       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007258                UARTCharPutNonBlocking
+ .text.UARTCharPut
+                0x00007268        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007268                UARTCharPut
+ .text.UARTBreakCtl
+                0x00007272       0x16 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007272                UARTBreakCtl
+ .text.UARTBusy
+                0x00007288        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007288                UARTBusy
+ .text.UARTIntRegister
+                0x00007290       0x1a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007290                UARTIntRegister
+ .text.UARTIntUnregister
+                0x000072aa       0x16 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000072aa                UARTIntUnregister
+ .text.UARTIntEnable
+                0x000072c0        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000072c0                UARTIntEnable
+ .text.UARTIntDisable
+                0x000072c8        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000072c8                UARTIntDisable
+ .text.UARTIntStatus
+                0x000072d2        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000072d2                UARTIntStatus
+ .text.UARTIntClear
+                0x000072dc        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000072dc                UARTIntClear
+ .text.UARTDMAEnable
+                0x000072e0        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000072e0                UARTDMAEnable
+ .text.UARTDMADisable
+                0x000072e8        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000072e8                UARTDMADisable
+ .text.UARTRxErrorGet
+                0x000072f2        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000072f2                UARTRxErrorGet
+ .text.UARTRxErrorClear
+                0x000072fa        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x000072fa                UARTRxErrorClear
+ .text.UARTClockSourceSet
+                0x00007300        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007300                UARTClockSourceSet
+ .text.UARTClockSourceGet
+                0x00007306        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007306                UARTClockSourceGet
+ .text.UART9BitEnable
+                0x0000730c        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x0000730c                UART9BitEnable
+ .text.UART9BitDisable
+                0x0000731a        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x0000731a                UART9BitDisable
+ .text.UART9BitAddrSet
+                0x00007328        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007328                UART9BitAddrSet
+ .text.UART9BitAddrSend
+                0x00007332       0x2c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x00007332                UART9BitAddrSend
+ .text.UARTLoopbackEnable
+                0x0000735e        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+                0x0000735e                UARTLoopbackEnable
+ .text.CPUcpsid
+                0x00007368        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(cpu.o)
+                0x00007368                CPUcpsid
+ .text.CPUprimask
+                0x00007370        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(cpu.o)
+                0x00007370                CPUprimask
+ .text.CPUcpsie
+                0x00007376        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(cpu.o)
+                0x00007376                CPUcpsie
+ .text.CPUwfi   0x0000737e        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000737e                CPUwfi
+ .text.CPUbasepriSet
+                0x00007382        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(cpu.o)
+                0x00007382                CPUbasepriSet
+ .text.CPUbasepriGet
+                0x00007388        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(cpu.o)
+                0x00007388                CPUbasepriGet
+ *fill*         0x0000738e        0x2 
+ .text.GrLibInit
+                0x00007390        0xc /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(context.o)
+                0x00007390                GrLibInit
+ .text.GrContextInit
+                0x0000739c       0x6c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(context.o)
+                0x0000739c                GrContextInit
+ .text.GrContextClipRegionSet
+                0x00007408       0x62 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(context.o)
+                0x00007408                GrContextClipRegionSet
+ .text.GrClipCodeGet
+                0x0000746a       0x36 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(line.o)
+ .text.GrLineDrawH
+                0x000074a0       0x46 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(line.o)
+                0x000074a0                GrLineDrawH
+ .text.GrLineDrawV
+                0x000074e6       0x46 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(line.o)
+                0x000074e6                GrLineDrawV
+ .text.GrLineDraw
+                0x0000752c      0x176 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(line.o)
+                0x0000752c                GrLineDraw
+ .text.CircularButtonPaint
+                0x000076a2      0x15a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o)
+ .text.CircularButtonMsgProc
+                0x000077fc       0xf2 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o)
+                0x000077fc                CircularButtonMsgProc
+ .text.RectangularButtonPaint
+                0x000078ee      0x160 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o)
+ .text.RectangularButtonMsgProc
+                0x00007a4e      0x10c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o)
+                0x00007a4e                RectangularButtonMsgProc
+ *fill*         0x00007b5a        0x2 
+ .text.RectangularButtonInit
+                0x00007b5c       0x3c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o)
+                0x00007b5c                RectangularButtonInit
+ .text.CircularButtonInit
+                0x00007b98       0x40 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o)
+                0x00007b98                CircularButtonInit
+ .text.GrRectDraw
+                0x00007bd8       0x66 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(rectangle.o)
+                0x00007bd8                GrRectDraw
+ .text.GrRectFill
+                0x00007c3e       0xb8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(rectangle.o)
+                0x00007c3e                GrRectFill
+ .text.GrRectOverlapCheck
+                0x00007cf6       0x3a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(rectangle.o)
+                0x00007cf6                GrRectOverlapCheck
+ .text.GrRectIntersectGet
+                0x00007d30       0x70 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(rectangle.o)
+                0x00007d30                GrRectIntersectGet
+ .text.SliderValueToPosition
+                0x00007da0       0x96 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(slider.o)
+ .text.SliderPaint
+                0x00007e36      0x2b2 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(slider.o)
+ .text.SliderMsgProc
+                0x000080e8      0x148 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(slider.o)
+                0x000080e8                SliderMsgProc
+ .text.SliderInit
+                0x00008230       0x3c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(slider.o)
+                0x00008230                SliderInit
+ .text.GrStringDraw
+                0x0000826c       0x16 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x0000826c                GrStringDraw
+ .text.GrStringNextCharGet
+                0x00008282       0x28 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x00008282                GrStringNextCharGet
+ .text.GrFontGlyphRender
+                0x000082aa      0x27c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x000082aa                GrFontGlyphRender
+ .text.GrFontInfoGet
+                0x00008526       0x38 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x00008526                GrFontInfoGet
+ .text.GrFontBaselineGet
+                0x0000855e       0x2c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x0000855e                GrFontBaselineGet
+ .text.GrFontHeightGet
+                0x0000858a       0x2c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x0000858a                GrFontHeightGet
+ .text.GrFontMaxWidthGet
+                0x000085b6       0x2c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x000085b6                GrFontMaxWidthGet
+ .text.GrFontGlyphDataGet
+                0x000085e2       0x90 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x000085e2                GrFontGlyphDataGet
+ .text.GrDefaultStringRenderer
+                0x00008672       0xb8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x00008672                GrDefaultStringRenderer
+ .text.GrStringWidthGet
+                0x0000872a       0x6a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x0000872a                GrStringWidthGet
+ .text.GrFontCodepageGet
+                0x00008794       0x26 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x00008794                GrFontCodepageGet
+ .text.UpdateContextCharMapping
+                0x000087ba       0x44 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+ .text.GrFontNumBlocksGet
+                0x000087fe       0x26 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x000087fe                GrFontNumBlocksGet
+ .text.GrFontBlockCodepointsGet
+                0x00008824       0x5c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x00008824                GrFontBlockCodepointsGet
+ .text.GrCodepageMapTableSet
+                0x00008880        0xa /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x00008880                GrCodepageMapTableSet
+ .text.GrStringCodepageSet
+                0x0000888a        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x0000888a                GrStringCodepageSet
+ .text.GrContextFontSet
+                0x00008890        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x00008890                GrContextFontSet
+ *fill*         0x00008896        0x2 
+ .text.GrStringTableSet
+                0x00008898       0x3c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x00008898                GrStringTableSet
+ .text.GrStringLanguageSet
+                0x000088d4       0x38 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x000088d4                GrStringLanguageSet
+ .text.GrStringGet
+                0x0000890c      0x258 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+                0x0000890c                GrStringGet
+ .text.WidgetIsInTree
+                0x00008b64       0x26 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+ .text.WidgetDefaultMsgProc
+                0x00008b8a        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                0x00008b8a                WidgetDefaultMsgProc
+ .text.WidgetMutexInit
+                0x00008b8e        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                0x00008b8e                WidgetMutexInit
+ .text.WidgetMutexGet
+                0x00008b94       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                0x00008b94                WidgetMutexGet
+ .text.WidgetMutexPut
+                0x00008ba8        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                0x00008ba8                WidgetMutexPut
+ .text.WidgetAdd
+                0x00008bae       0x1e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                0x00008bae                WidgetAdd
+ .text.WidgetRemove
+                0x00008bcc       0x4c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                0x00008bcc                WidgetRemove
+ .text.WidgetMessageSendPreOrder
+                0x00008c18       0x58 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                0x00008c18                WidgetMessageSendPreOrder
+ .text.WidgetMessageSendPostOrder
+                0x00008c70       0x98 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                0x00008c70                WidgetMessageSendPostOrder
+ .text.WidgetMessageQueueAdd
+                0x00008d08       0xd4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                0x00008d08                WidgetMessageQueueAdd
+ .text.WidgetMessageQueueProcess
+                0x00008ddc       0x54 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                0x00008ddc                WidgetMessageQueueProcess
+ .text.WidgetPointerMessage
+                0x00008e30       0x20 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                0x00008e30                WidgetPointerMessage
+ .text.GrMapUTF16_Unicode
+                0x00008e50       0x84 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+ .text.GrMapISO8859_1_Unicode
+                0x00008ed4        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00008ed4                GrMapISO8859_1_Unicode
+ .text.GrMapISO8859_2_Unicode
+                0x00008edc       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00008edc                GrMapISO8859_2_Unicode
+ .text.GrMapISO8859_3_Unicode
+                0x00008ef4       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00008ef4                GrMapISO8859_3_Unicode
+ .text.GrMapISO8859_4_Unicode
+                0x00008f0c       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00008f0c                GrMapISO8859_4_Unicode
+ .text.GrMapISO8859_5_Unicode
+                0x00008f24       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00008f24                GrMapISO8859_5_Unicode
+ .text.GrMapISO8859_6_Unicode
+                0x00008f34       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00008f34                GrMapISO8859_6_Unicode
+ .text.GrMapISO8859_7_Unicode
+                0x00008f48       0x24 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00008f48                GrMapISO8859_7_Unicode
+ .text.GrMapISO8859_8_Unicode
+                0x00008f6c       0x26 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00008f6c                GrMapISO8859_8_Unicode
+ .text.GrMapISO8859_9_Unicode
+                0x00008f92       0x46 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00008f92                GrMapISO8859_9_Unicode
+ .text.GrMapISO8859_10_Unicode
+                0x00008fd8       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00008fd8                GrMapISO8859_10_Unicode
+ .text.GrMapISO8859_11_Unicode
+                0x00008ff0       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00008ff0                GrMapISO8859_11_Unicode
+ .text.GrMapISO8859_13_Unicode
+                0x00009000       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00009000                GrMapISO8859_13_Unicode
+ .text.GrMapISO8859_14_Unicode
+                0x00009018       0x58 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00009018                GrMapISO8859_14_Unicode
+ .text.GrMapISO8859_15_Unicode
+                0x00009070       0x5a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00009070                GrMapISO8859_15_Unicode
+ *fill*         0x000090ca        0x2 
+ .text.GrMapISO8859_16_Unicode
+                0x000090cc       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x000090cc                GrMapISO8859_16_Unicode
+ .text.GrMapUTF8_Unicode
+                0x000090e4       0x7c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x000090e4                GrMapUTF8_Unicode
+ .text.GrMapUTF16LE_Unicode
+                0x00009160        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00009160                GrMapUTF16LE_Unicode
+ .text.GrMapUTF16BE_Unicode
+                0x00009166        0x6 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00009166                GrMapUTF16BE_Unicode
+ .text.GrMapUnicode_Unicode
+                0x0000916c       0x22 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000916c                GrMapUnicode_Unicode
+ *fill*         0x0000918e        0x2 
+ .text.GrMapWIN1250_Unicode
+                0x00009190       0x18 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00009190                GrMapWIN1250_Unicode
+ .text.GrMapWIN1251_Unicode
+                0x000091a8       0x28 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x000091a8                GrMapWIN1251_Unicode
+ .text.GrMapWIN1252_Unicode
+                0x000091d0       0x1c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x000091d0                GrMapWIN1252_Unicode
+ .text.GrMapWIN1253_Unicode
+                0x000091ec       0x28 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x000091ec                GrMapWIN1253_Unicode
+ .text.GrMapWIN1254_Unicode
+                0x00009214       0x24 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x00009214                GrMapWIN1254_Unicode
+ .text.GrCircleDraw
+                0x00009238      0x1da /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(circle.o)
+                0x00009238                GrCircleDraw
+ .text.GrCircleFill
+                0x00009412      0x11e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(circle.o)
+                0x00009412                GrCircleFill
+ .text.PixelTransparentDraw
+                0x00009530      0x272 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(image.o)
+ *fill*         0x000097a2        0x2 
+ .text.InternalImageDraw
+                0x000097a4      0x3a8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(image.o)
+ .text.GrTransparentImageDraw
+                0x00009b4c       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(image.o)
+                0x00009b4c                GrTransparentImageDraw
+ .text.GrImageDraw
+                0x00009b5c        0xe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(image.o)
+                0x00009b5c                GrImageDraw
+ *fill*         0x00009b6a        0x2 
+ .text.exit     0x00009b6c       0x20 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+                0x00009b6c                exit
+ .text.__libc_init_array
+                0x00009b8c       0x50 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+                0x00009b8c                __libc_init_array
+ .text.__itoa   0x00009bdc       0x30 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+                0x00009bdc                __itoa
+ .text.itoa     0x00009c0c        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+                0x00009c0c                itoa
+ .text.memset   0x00009c10       0x9c /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+                0x00009c10                memset
+ .text.strlen   0x00009cac       0x5c /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strlen.o)
+                0x00009cac                strlen
+ .text.__utoa   0x00009d08       0x80 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+                0x00009d08                __utoa
+ .text.utoa     0x00009d88        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+                0x00009d88                utoa
+ .text.startup.register_fini
+                0x00009d8c       0x14 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00009da0       0xd4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+                0x00009da0                __call_exitprocs
+ .text.atexit   0x00009e74        0xc /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+                0x00009e74                atexit
+ .text.__libc_fini_array
+                0x00009e80       0x2c /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+                0x00009e80                __libc_fini_array
+ .text.__register_exitproc
+                0x00009eac       0xa4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+                0x00009eac                __register_exitproc
+ .text._exit    0x00009f50        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+                0x00009f50                _exit
+                0x00009f54                . = ALIGN (0x4)
+ *(.ctors)
+                0x00009f54                . = ALIGN (0x4)
+ *(.dtors)
+                0x00009f54                . = ALIGN (0x4)
+                0x00009f54                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x00009f54        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .init_array.00000
+                0x00009f58        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+                0x00009f5c                __init_array_end = .
+ *(.init)
+ .init          0x00009f5c        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+                0x00009f5c                _init
+ .init          0x00009f60        0x8 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ *(.fini*)
+ .fini          0x00009f68        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+                0x00009f68                _fini
+ .fini_array    0x00009f6c        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .fini          0x00009f70        0x8 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+                0x00009f78                PROVIDE (__etext, .)
+                0x00009f78                PROVIDE (_etext, .)
+                0x00009f78                PROVIDE (etext, .)
+
+.glue_7         0x00009f78        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00009f78        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00009f78        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00009f78        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00009f78        0x0
+ .iplt          0x00000000        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+
+.rodata         0x00009f78     0x53c0
+ *(.rodata)
+ .rodata        0x00009f78       0x26 ./LCD.o
+ *fill*         0x00009f9e        0x2 
+ .rodata        0x00009fa0       0x32 ./main.o
+ *fill*         0x00009fd2        0x2 
+ .rodata        0x00009fd4      0x10a ./touch_isr.o
+ *fill*         0x0000a0de        0x2 
+ .rodata        0x0000a0e0       0x26 ./files/SWITCH.o
+ *fill*         0x0000a106        0x2 
+ .rodata        0x0000a108       0x1e ./files/UART.o
+ *fill*         0x0000a126        0x2 
+ .rodata        0x0000a128       0x1a ./utils/ustdlib.o
+ *(.rodata*)
+ *fill*         0x0000a142        0x2 
+ .rodata.g_pui8Logo
+                0x0000a144      0x230 ./images.o
+                0x0000a144                g_pui8Logo
+ .rodata.g_pui8LightOff
+                0x0000a374       0xf5 ./images.o
+                0x0000a374                g_pui8LightOff
+ *fill*         0x0000a469        0x3 
+ .rodata.g_pui8LightOn
+                0x0000a46c       0xe6 ./images.o
+                0x0000a46c                g_pui8LightOn
+ *fill*         0x0000a552        0x2 
+ .rodata.g_pui8Blue50x50
+                0x0000a554      0x210 ./images.o
+                0x0000a554                g_pui8Blue50x50
+ .rodata.g_pui8Blue50x50Press
+                0x0000a764      0x20e ./images.o
+                0x0000a764                g_pui8Blue50x50Press
+ *fill*         0x0000a972        0x2 
+ .rodata.g_pui8GettingHotter28x148
+                0x0000a974      0x705 ./images.o
+                0x0000a974                g_pui8GettingHotter28x148
+ *fill*         0x0000b079        0x3 
+ .rodata.g_pui8GettingHotter28x148Mono
+                0x0000b07c      0x3ad ./images.o
+                0x0000b07c                g_pui8GettingHotter28x148Mono
+ *fill*         0x0000b429        0x3 
+ .rodata.g_pui8GreenSlider195x37
+                0x0000b42c      0x826 ./images.o
+                0x0000b42c                g_pui8GreenSlider195x37
+ *fill*         0x0000bc52        0x2 
+ .rodata.g_pui8RedSlider195x37
+                0x0000bc54      0x83d ./images.o
+                0x0000bc54                g_pui8RedSlider195x37
+ *fill*         0x0000c491        0x3 
+ .rodata.g_sKentec320x240x16_SSD2119
+                0x0000c494       0x28 ./drivers/Kentec320x240x16_ssd2119_spi.o
+                0x0000c494                g_sKentec320x240x16_SSD2119
+ .rodata.g_pi32TouchParameters
+                0x0000c4bc       0x1c ./drivers/touch.o
+                0x0000c4bc                g_pi32TouchParameters
+ .rodata.g_pcHex
+                0x0000c4d8        0x4 ./files/UART.o
+ .rodata.g_pcHex
+                0x0000c4dc        0x4 ./utils/ustdlib.o
+ .rodata.g_psDaysToMonth
+                0x0000c4e0       0x30 ./utils/ustdlib.o
+ .rodata.g_pfExponents
+                0x0000c510       0x18 ./utils/ustdlib.o
+ .rodata.g_ppui32GPIOIntMapSnowflake
+                0x0000c528       0xc0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_pui32GPIOBaseAddrs
+                0x0000c5e8       0x90 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapBlizzard
+                0x0000c678       0xc0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_pui32Priority
+                0x0000c738       0x20 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Dii16Regs
+                0x0000c758       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32PendRegs
+                0x0000c76c       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Regs
+                0x0000c780       0x9c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32EnRegs
+                0x0000c81c       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32UnpendRegs
+                0x0000c830       0x14 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_ppui32SSIIntMap
+                0x0000c844       0x20 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+ .rodata.g_ppui32SSIIntMapSnowflake
+                0x0000c864       0x20 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+ .rodata.g_pppui32XTALtoVCO
+                0x0000c884      0x1b0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32VCOFrequencies
+                0x0000ca34        0x8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_sXTALtoMEMTIM
+                0x0000ca3c       0x30 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32Xtals
+                0x0000ca6c       0x6c /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_ppui32TimerIntMapSnowflake
+                0x0000cad8       0x40 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+ .rodata.g_ppui32TimerIntMap
+                0x0000cb18       0x60 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+ .rodata.g_ppui32UARTIntMap
+                0x0000cb78       0x40 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+ .rodata.g_ppui32UARTIntMapSnowflake
+                0x0000cbb8       0x40 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+ .rodata.g_psDefaultCodePointMapTable
+                0x0000cbf8       0x10 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(context.o)
+                0x0000cbf8                g_psDefaultCodePointMapTable
+ .rodata.g_sFontCm12
+                0x0000cc08       0xc8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm12.o)
+                0x0000cc08                g_sFontCm12
+ .rodata.g_pui8Cm12Data
+                0x0000ccd0      0x55f /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm12.o)
+ *fill*         0x0000d22f        0x1 
+ .rodata.g_sFontCm14
+                0x0000d230       0xc8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm14.o)
+                0x0000d230                g_sFontCm14
+ .rodata.g_pui8Cm14Data
+                0x0000d2f8      0x65a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm14.o)
+ *fill*         0x0000d952        0x2 
+ .rodata.g_sFontCm16
+                0x0000d954       0xc8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm16.o)
+                0x0000d954                g_sFontCm16
+ .rodata.g_pui8Cm16Data
+                0x0000da1c      0x759 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm16.o)
+ .rodata.g_pui8Cm20Data
+                0x0000e175      0x95e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm20.o)
+ *fill*         0x0000ead3        0x1 
+ .rodata.g_sFontCm20
+                0x0000ead4       0xc8 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm20.o)
+                0x0000ead4                g_sFontCm20
+ .rodata.g_pui16ISO8859_2_Unicode
+                0x0000eb9c       0xbe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000eb9c                g_pui16ISO8859_2_Unicode
+ .rodata.g_pui16ISO8859_13_Unicode
+                0x0000ec5a       0xbe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000ec5a                g_pui16ISO8859_13_Unicode
+ .rodata.g_pui16WIN1250_Unicode
+                0x0000ed18      0x100 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000ed18                g_pui16WIN1250_Unicode
+ .rodata.g_pui16ISO8859_7_Unicode
+                0x0000ee18       0x3a /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000ee18                g_pui16ISO8859_7_Unicode
+ .rodata.g_pui16WIN1253_Unicode
+                0x0000ee52       0x80 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000ee52                g_pui16WIN1253_Unicode
+ .rodata.g_pui16WIN1252_Unicode
+                0x0000eed2       0x40 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000eed2                g_pui16WIN1252_Unicode
+ .rodata.g_pui16ISO8859_3_Unicode
+                0x0000ef12       0xbe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000ef12                g_pui16ISO8859_3_Unicode
+ .rodata.g_pui16ISO8859_16_Unicode
+                0x0000efd0       0xbe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000efd0                g_pui16ISO8859_16_Unicode
+ .rodata.g_pui16WIN1251_Unicode
+                0x0000f08e       0x80 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000f08e                g_pui16WIN1251_Unicode
+ .rodata.g_pui16ISO8859_14_Unicode
+                0x0000f10e       0x3e /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000f10e                g_pui16ISO8859_14_Unicode
+ .rodata.g_pui16ISO8859_10_Unicode
+                0x0000f14c       0xbe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000f14c                g_pui16ISO8859_10_Unicode
+ .rodata.g_pui16WIN1254_Unicode
+                0x0000f20a       0x40 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000f20a                g_pui16WIN1254_Unicode
+ .rodata.g_pui16ISO8859_4_Unicode
+                0x0000f24a       0xbe /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+                0x0000f24a                g_pui16ISO8859_4_Unicode
+ .rodata.str1.4
+                0x0000f308        0x2 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ *fill*         0x0000f30a        0x2 
+ .rodata._global_impure_ptr
+                0x0000f30c        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+                0x0000f30c                _global_impure_ptr
+ .rodata.str1.4
+                0x0000f310       0x28 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+                                 0x25 (size before relaxing)
+
+.eh_frame       0x0000f338        0x4
+ .eh_frame      0x0000f338        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .eh_frame      0x0000f338        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+
+.data           0x20000000     0x48ec load address 0x0000f33c
+                0x0000f33c                __data_load__ = LOADADDR (.data)
+                0x20000000                __data_start__ = .
+ *(.data)
+ .data          0x20000000        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .data          0x20000000        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+                0x20000000                __dso_handle
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .data          0x20000004        0x0 ./LCD.o
+ .data          0x20000004        0x0 ./images.o
+ .data          0x20000004        0x0 ./main.o
+ .data          0x20000004        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .data          0x20000004        0x0 ./touch_isr.o
+ .data          0x20000004        0x0 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .data          0x20000004        0x0 ./drivers/touch.o
+ .data          0x20000004        0x0 ./files/Delay.o
+ .data          0x20000004        0x0 ./files/SWITCH.o
+ .data          0x20000004        0x0 ./files/UART.o
+ .data          0x20000004        0x0 ./utils/ustdlib.o
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(cpu.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(context.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm12.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm14.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm16.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm20.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(line.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(rectangle.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(slider.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(circle.o)
+ .data          0x20000004        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(image.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strlen.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .data          0x20000004        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ *(.data*)
+ .data.data_ch  0x20000004       0xa0 ./LCD.o
+                0x20000004                data_ch
+ .data.data_ch_prev
+                0x200000a4       0xa0 ./LCD.o
+                0x200000a4                data_ch_prev
+ .data.Y_max    0x20000144        0x4 ./LCD.o
+                0x20000144                Y_max
+ .data.Y_min    0x20000148        0x4 ./LCD.o
+                0x20000148                Y_min
+ .data.print_left
+                0x2000014c        0x4 ./LCD.o
+                0x2000014c                print_left
+ .data.print_right
+                0x20000150        0x4 ./LCD.o
+                0x20000150                print_right
+ .data.time_interval
+                0x20000154        0x4 ./LCD.o
+                0x20000154                time_interval
+ .data.data_in_ch1
+                0x20000158        0x4 ./main.o
+                0x20000158                data_in_ch1
+ .data.data_in_ch2
+                0x2000015c        0x4 ./main.o
+                0x2000015c                data_in_ch2
+ .data.data_in_ch3
+                0x20000160        0x4 ./main.o
+                0x20000160                data_in_ch3
+ .data.data_in_ch4
+                0x20000164        0x4 ./main.o
+                0x20000164                data_in_ch4
+ .data.byte_count
+                0x20000168        0x4 ./main.o
+                0x20000168                byte_count
+ .data.mask_intr
+                0x2000016c        0x4 ./main.o
+                0x2000016c                mask_intr
+ .data.flag_intr
+                0x20000170        0x1 ./main.o
+                0x20000170                flag_intr
+ *fill*         0x20000171        0x3 
+ .data.time_interval_step
+                0x20000174       0x18 ./touch_isr.o
+                0x20000174                time_interval_step
+ .data.time_interval_ptr
+                0x2000018c        0x4 ./touch_isr.o
+                0x2000018c                time_interval_ptr
+ .data.print_interval_step
+                0x20000190       0x1c ./touch_isr.o
+                0x20000190                print_interval_step
+ .data.print_int_ptr
+                0x200001ac        0x1 ./touch_isr.o
+                0x200001ac                print_int_ptr
+ .data.time_print_flag
+                0x200001ad        0x1 ./touch_isr.o
+                0x200001ad                time_print_flag
+ *fill*         0x200001ae        0x2 
+ .data.wave_print
+                0x200001b0       0x50 ./touch_isr.o
+                0x200001b0                wave_print
+ .data.increase
+                0x20000200       0x50 ./touch_isr.o
+                0x20000200                increase
+ .data.decrease
+                0x20000250       0x50 ./touch_isr.o
+                0x20000250                decrease
+ .data.left     0x200002a0       0x50 ./touch_isr.o
+                0x200002a0                left
+ .data.right    0x200002f0       0x50 ./touch_isr.o
+                0x200002f0                right
+ .data.start    0x20000340       0x50 ./touch_isr.o
+                0x20000340                start
+ .data.plus     0x20000390       0x50 ./touch_isr.o
+                0x20000390                plus
+ .data.minus    0x200003e0       0x50 ./touch_isr.o
+                0x200003e0                minus
+ .data.move_slider
+                0x20000430       0x5c ./touch_isr.o
+                0x20000430                move_slider
+ .data.pre_value
+                0x2000048c        0x4 ./touch_isr.o
+                0x2000048c                pre_value
+ .data.g_i16TouchMin
+                0x20000490        0x2 ./drivers/touch.o
+                0x20000490                g_i16TouchMin
+ *fill*         0x20000492        0x2 
+ .data.temp_set
+                0x20000494        0x4 ./files/UART.o
+                0x20000494                temp_set
+ .data.g_iRandomSeed
+                0x20000498        0x4 ./utils/ustdlib.o
+ .data.g_sRoot  0x2000049c       0x20 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+                0x2000049c                g_sRoot
+ *fill*         0x200004bc        0x4 
+ .data.impure_data
+                0x200004c0      0x428 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x200008e8        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+                0x200008e8                _impure_ptr
+                0x200008ec                . = ALIGN (0x4)
+                0x200008ec                SUT1_data = .
+                0x200018ec                . = (. + 0x1000)
+ *fill*         0x200008ec     0x1000 
+                0x200018ec                SUT2_data = .
+                0x200028ec                . = (. + 0x1000)
+ *fill*         0x200018ec     0x1000 
+                0x200028ec                SUT3_data = .
+                0x200038ec                . = (. + 0x1000)
+ *fill*         0x200028ec     0x1000 
+                0x200038ec                SUT4_data = .
+                0x200048ec                . = (. + 0x1000)
+ *fill*         0x200038ec     0x1000 
+                0x200048ec                __data_end__ = .
+
+.jcr            0x200048ec        0x4 load address 0x00013c28
+ .jcr           0x200048ec        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .jcr           0x200048ec        0x4 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+
+.igot.plt       0x200048f0        0x0 load address 0x00013c2c
+ .igot.plt      0x00000000        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+
+vtable          0x20004c00      0x400 load address 0x00013c2c
+                0x20004c00                PROVIDE (__start_vtable, .)
+ vtable         0x20004c00      0x400 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+                0x20005000                PROVIDE (__stop_vtable, .)
+
+.ARM.exidx      0x0001402c        0x8
+                0x0001402c                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0001402c        0x8 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+                0x00014034                __exidx_end = .
+
+.ARM.extab      0x00014034        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x00014034        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+
+.rel.dyn        0x00014034        0x0
+ .rel.iplt      0x00000000        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+
+.bss            0x20005000      0x4c0
+                0x20005000                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x20005000        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .bss           0x20005000       0x1c /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x2000501c        0x0 ./LCD.o
+ .bss           0x2000501c        0x0 ./images.o
+ .bss           0x2000501c        0x0 ./main.o
+ .bss           0x2000501c        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss           0x2000501c        0x0 ./touch_isr.o
+ .bss           0x2000501c        0x0 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .bss           0x2000501c        0x0 ./drivers/touch.o
+ .bss           0x2000501c        0x0 ./files/Delay.o
+ .bss           0x2000501c        0x0 ./files/SWITCH.o
+ .bss           0x2000501c        0x0 ./files/UART.o
+ .bss           0x2000501c        0x0 ./utils/ustdlib.o
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(cpu.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(context.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm12.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm14.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm16.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm20.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(line.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(rectangle.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(slider.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(circle.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(image.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strlen.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .bss           0x2000501c        0x0 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ *(.bss.*)
+ .bss.bit_count
+                0x2000501c        0x1 ./main.o
+                0x2000501c                bit_count
+ *fill*         0x2000501d        0x3 
+ .bss.pui32Stack
+                0x20005020      0x200 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss.g_ui32TSState
+                0x20005220        0x4 ./drivers/touch.o
+ .bss.g_pfnTSHandler
+                0x20005224        0x4 ./drivers/touch.o
+ .bss.g_ui8State
+                0x20005228        0x1 ./drivers/touch.o
+ *fill*         0x20005229        0x3 
+ .bss.g_pi16Samples
+                0x2000522c       0x10 ./drivers/touch.o
+ .bss.g_i8Index
+                0x2000523c        0x1 ./drivers/touch.o
+ .bss.get_string_flag
+                0x2000523d        0x1 ./files/UART.o
+                0x2000523d                get_string_flag
+ .bss.i         0x2000523e        0x1 ./files/UART.o
+                0x2000523e                i
+ .bss.g_pui8OversampleFactor
+                0x2000523f        0x3 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+ *fill*         0x20005242        0x2 
+ .bss.g_psGrLibDefaults
+                0x20005244        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(context.o)
+ .bss.g_pui16LanguageTable
+                0x20005248        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+ .bss.g_ui16NumLanguages
+                0x2000524c        0x2 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+ .bss.g_ui16NumStrings
+                0x2000524e        0x2 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+ .bss.g_pui8StringData
+                0x20005250        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+ .bss.g_pui32StringTable
+                0x20005254        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+ .bss.g_ui16Language
+                0x20005258        0x2 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+ *fill*         0x2000525a        0x2 
+ .bss.g_psPointerWidget
+                0x2000525c        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+ .bss.g_ui8MQMutex
+                0x20005260        0x1 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+ *fill*         0x20005261        0x3 
+ .bss.g_ui32MQRead
+                0x20005264        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+ .bss.g_psMQ    0x20005268      0x140 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+ .bss.g_ui32MQWrite
+                0x200053a8        0x4 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+ .bss.g_pui8Dictionary
+                0x200053ac       0x20 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(image.o)
+ *(COMMON)
+ COMMON         0x200053cc       0x84 ./LCD.o
+                0x200053cc                Rect_t2
+                0x200053d4                Rect_t1
+                0x200053dc                sRect
+                0x200053e4                Rect_R
+                0x200053ec                sContext
+                0x20005418                str_left
+                0x20005424                str_time
+                0x20005430                Rect_M
+                0x20005438                str_right
+                0x20005444                Rect_L
+                0x2000544c                ui32SysClock
+ COMMON         0x20005450        0xa ./drivers/touch.o
+                0x20005450                g_i16TouchX
+                0x20005454                g_pi32ParmSet
+                0x20005458                g_i16TouchY
+ *fill*         0x2000545a        0x2 
+ COMMON         0x2000545c       0x64 ./files/UART.o
+                0x2000545c                string
+                0x200054c0                . = ALIGN (0x4)
+                0x200054c0                __bss_end__ = .
+
+.heap           0x200054c0        0x0
+                0x200054c0                __heap_start__ = .
+                0x200054c0                end = __heap_start__
+                0x200054c0                _end = end
+                0x200054c0                __end = end
+ *(.heap)
+                0x200054c0                __heap_end__ = .
+                0x200054c0                __HeapLimit = __heap_end__
+
+.stack          0x200054c0        0x0
+                0x200054c0                _stack = .
+                0x200054c0                __stack = .
+ *(.stack)
+LOAD /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a
+LOAD /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a
+LOAD /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/lib/cortex-m7/fpu/fpv5-sp-d16/libm.a
+START GROUP
+LOAD /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a
+LOAD /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a
+LOAD /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
+END GROUP
+START GROUP
+LOAD /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a
+LOAD /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
+LOAD /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a
+END GROUP
+LOAD /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+LOAD /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+OUTPUT(Logic_Analyser.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x32
+ .ARM.attributes
+                0x00000000       0x22 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x00000022       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.attributes
+                0x00000076       0x39 ./LCD.o
+ .ARM.attributes
+                0x000000af       0x39 ./images.o
+ .ARM.attributes
+                0x000000e8       0x39 ./main.o
+ .ARM.attributes
+                0x00000121       0x39 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .ARM.attributes
+                0x0000015a       0x39 ./touch_isr.o
+ .ARM.attributes
+                0x00000193       0x39 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .ARM.attributes
+                0x000001cc       0x39 ./drivers/touch.o
+ .ARM.attributes
+                0x00000205       0x39 ./files/Delay.o
+ .ARM.attributes
+                0x0000023e       0x39 ./files/SWITCH.o
+ .ARM.attributes
+                0x00000277       0x39 ./files/UART.o
+ .ARM.attributes
+                0x000002b0       0x39 ./utils/ustdlib.o
+ .ARM.attributes
+                0x000002e9       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+ .ARM.attributes
+                0x00000324       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+ .ARM.attributes
+                0x0000035f       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+ .ARM.attributes
+                0x0000039a       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+ .ARM.attributes
+                0x000003d5       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+ .ARM.attributes
+                0x00000410       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+ .ARM.attributes
+                0x0000044b       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+ .ARM.attributes
+                0x00000486       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+ .ARM.attributes
+                0x000004c1       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+ .ARM.attributes
+                0x000004fc       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(cpu.o)
+ .ARM.attributes
+                0x00000537       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(context.o)
+ .ARM.attributes
+                0x00000572       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm12.o)
+ .ARM.attributes
+                0x000005ad       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm14.o)
+ .ARM.attributes
+                0x000005e8       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm16.o)
+ .ARM.attributes
+                0x00000623       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm20.o)
+ .ARM.attributes
+                0x0000065e       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(line.o)
+ .ARM.attributes
+                0x00000699       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o)
+ .ARM.attributes
+                0x000006d4       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(rectangle.o)
+ .ARM.attributes
+                0x0000070f       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(slider.o)
+ .ARM.attributes
+                0x0000074a       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+ .ARM.attributes
+                0x00000785       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+ .ARM.attributes
+                0x000007c0       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+ .ARM.attributes
+                0x000007fb       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(circle.o)
+ .ARM.attributes
+                0x00000836       0x3b /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(image.o)
+ .ARM.attributes
+                0x00000871       0x22 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000893       0x22 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x000008b5       0x22 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x000008d7       0x22 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x000008f9       0x22 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x0000091b       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000094f       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000983       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000009b7       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .ARM.attributes
+                0x000009eb       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000a1f       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000a53       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .ARM.attributes
+                0x00000a87       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000abb       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000aef       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000b23       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000b57       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000b8b       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x00000bbf       0x22 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+
+.comment        0x00000000       0xe0
+ .comment       0x00000000       0x70 ./LCD.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./images.o
+ .comment       0x00000000       0x71 ./main.o
+ .comment       0x00000000       0x71 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .comment       0x00000000       0x71 ./touch_isr.o
+ .comment       0x00000000       0x71 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .comment       0x00000000       0x71 ./drivers/touch.o
+ .comment       0x00000000       0x71 ./files/Delay.o
+ .comment       0x00000000       0x71 ./files/SWITCH.o
+ .comment       0x00000000       0x71 ./files/UART.o
+ .comment       0x00000000       0x71 ./utils/ustdlib.o
+ .comment       0x00000070       0x70 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(adc.o)
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(fpu.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(gpio.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(interrupt.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(ssi.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(sysctl.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(systick.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(timer.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(uart.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/driverlib/gcc/libdriver.a(cpu.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(context.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm12.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm14.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm16.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(fontcm20.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(line.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(pushbutton.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(rectangle.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(slider.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(string.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(widget.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(charmap.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(circle.o)
+ .comment       0x00000000       0x71 /home/akshay/ti/TivaWare_C_Series-2.1.3.156/grlib/gcc/libgr.a(image.o)
+
+.debug_info     0x00000000     0x3b90
+ .debug_info    0x00000000      0xb83 ./LCD.o
+ .debug_info    0x00000b83      0x1fa ./images.o
+ .debug_info    0x00000d7d      0x96c ./main.o
+ .debug_info    0x000016e9      0x175 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_info    0x0000185e      0xbba ./touch_isr.o
+ .debug_info    0x00002418      0x66c ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .debug_info    0x00002a84      0x294 ./drivers/touch.o
+ .debug_info    0x00002d18       0xd8 ./files/Delay.o
+ .debug_info    0x00002df0       0xfa ./files/SWITCH.o
+ .debug_info    0x00002eea      0x4cc ./files/UART.o
+ .debug_info    0x000033b6      0x7da ./utils/ustdlib.o
+
+.debug_abbrev   0x00000000      0xc31
+ .debug_abbrev  0x00000000      0x16f ./LCD.o
+ .debug_abbrev  0x0000016f       0x77 ./images.o
+ .debug_abbrev  0x000001e6      0x18d ./main.o
+ .debug_abbrev  0x00000373       0xca ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_abbrev  0x0000043d      0x1b2 ./touch_isr.o
+ .debug_abbrev  0x000005ef      0x156 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .debug_abbrev  0x00000745       0xe0 ./drivers/touch.o
+ .debug_abbrev  0x00000825       0x72 ./files/Delay.o
+ .debug_abbrev  0x00000897       0x87 ./files/SWITCH.o
+ .debug_abbrev  0x0000091e      0x17a ./files/UART.o
+ .debug_abbrev  0x00000a98      0x199 ./utils/ustdlib.o
+
+.debug_aranges  0x00000000      0x350
+ .debug_aranges
+                0x00000000       0x40 ./LCD.o
+ .debug_aranges
+                0x00000040       0x18 ./images.o
+ .debug_aranges
+                0x00000058       0x30 ./main.o
+ .debug_aranges
+                0x00000088       0x38 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_aranges
+                0x000000c0       0x60 ./touch_isr.o
+ .debug_aranges
+                0x00000120       0x80 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .debug_aranges
+                0x000001a0       0x38 ./drivers/touch.o
+ .debug_aranges
+                0x000001d8       0x28 ./files/Delay.o
+ .debug_aranges
+                0x00000200       0x38 ./files/SWITCH.o
+ .debug_aranges
+                0x00000238       0x78 ./files/UART.o
+ .debug_aranges
+                0x000002b0       0xa0 ./utils/ustdlib.o
+
+.debug_ranges   0x00000000      0x298
+ .debug_ranges  0x00000000       0x30 ./LCD.o
+ .debug_ranges  0x00000030       0x20 ./main.o
+ .debug_ranges  0x00000050       0x28 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_ranges  0x00000078       0x50 ./touch_isr.o
+ .debug_ranges  0x000000c8       0x70 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .debug_ranges  0x00000138       0x28 ./drivers/touch.o
+ .debug_ranges  0x00000160       0x18 ./files/Delay.o
+ .debug_ranges  0x00000178       0x28 ./files/SWITCH.o
+ .debug_ranges  0x000001a0       0x68 ./files/UART.o
+ .debug_ranges  0x00000208       0x90 ./utils/ustdlib.o
+
+.debug_line     0x00000000     0x1af6
+ .debug_line    0x00000000      0x299 ./LCD.o
+ .debug_line    0x00000299      0x109 ./images.o
+ .debug_line    0x000003a2      0x23e ./main.o
+ .debug_line    0x000005e0      0x16c ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_line    0x0000074c      0x317 ./touch_isr.o
+ .debug_line    0x00000a63      0x39b ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .debug_line    0x00000dfe      0x262 ./drivers/touch.o
+ .debug_line    0x00001060      0x130 ./files/Delay.o
+ .debug_line    0x00001190      0x162 ./files/SWITCH.o
+ .debug_line    0x000012f2      0x339 ./files/UART.o
+ .debug_line    0x0000162b      0x4cb ./utils/ustdlib.o
+
+.debug_str      0x00000000     0x11c5
+ .debug_str     0x00000000      0x511 ./LCD.o
+                                0x58a (size before relaxing)
+ .debug_str     0x00000511       0xbf ./images.o
+                                0x277 (size before relaxing)
+ .debug_str     0x000005d0      0x23b ./main.o
+                                0x6a3 (size before relaxing)
+ .debug_str     0x0000080b       0xa1 ./tm4c123gh6pm_startup_ccs_gcc.o
+                                0x250 (size before relaxing)
+ .debug_str     0x000008ac      0x172 ./touch_isr.o
+                                0x7c7 (size before relaxing)
+ .debug_str     0x00000a1e      0x25f ./drivers/Kentec320x240x16_ssd2119_spi.o
+                                0x538 (size before relaxing)
+ .debug_str     0x00000c7d      0x165 ./drivers/touch.o
+                                0x342 (size before relaxing)
+ .debug_str     0x00000de2       0x23 ./files/Delay.o
+                                0x1dd (size before relaxing)
+ .debug_str     0x00000e05       0x57 ./files/SWITCH.o
+                                0x211 (size before relaxing)
+ .debug_str     0x00000e5c      0x176 ./files/UART.o
+                                0x3a1 (size before relaxing)
+ .debug_str     0x00000fd2      0x1f3 ./utils/ustdlib.o
+                                0x3ec (size before relaxing)
+
+.debug_frame    0x00000000      0xd38
+ .debug_frame   0x00000000       0xdc ./LCD.o
+ .debug_frame   0x000000dc       0x70 ./main.o
+ .debug_frame   0x0000014c       0x7c ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_frame   0x000001c8      0x160 ./touch_isr.o
+ .debug_frame   0x00000328      0x1e4 ./drivers/Kentec320x240x16_ssd2119_spi.o
+ .debug_frame   0x0000050c       0xa0 ./drivers/touch.o
+ .debug_frame   0x000005ac       0x58 ./files/Delay.o
+ .debug_frame   0x00000604       0x88 ./files/SWITCH.o
+ .debug_frame   0x0000068c      0x1c8 ./files/UART.o
+ .debug_frame   0x00000854      0x2bc ./utils/ustdlib.o
+ .debug_frame   0x00000b10       0x28 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-exit.o)
+ .debug_frame   0x00000b38       0x2c /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-init.o)
+ .debug_frame   0x00000b64       0x3c /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-itoa.o)
+ .debug_frame   0x00000ba0       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-memset.o)
+ .debug_frame   0x00000bd4       0x20 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-strlen.o)
+ .debug_frame   0x00000bf4       0x4c /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-utoa.o)
+ .debug_frame   0x00000c40       0x50 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000c90       0x20 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000cb0       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-fini.o)
+ .debug_frame   0x00000ce4       0x34 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00000d18       0x20 /home/akshay/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
